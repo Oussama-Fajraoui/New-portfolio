@@ -184,13 +184,21 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Oussama-Fajraoui",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/disc.svg",
+    link: "https://discord.com/users/957937549358284800",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/oussama-fajraoui%E2%9C%94-59436b22b/",
+  },
+  {
+    id: 4,
+    img: "/whats.svg",
+    link: "https://api.whatsapp.com/send?phone=26499227",
   },
 ];
