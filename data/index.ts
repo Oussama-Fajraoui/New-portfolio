@@ -26,6 +26,7 @@ export const gridItems = [
     img: "",
     spareImg: "",
   },
+  //testing
   {
     id: 3,
     title: "My tech stack",
