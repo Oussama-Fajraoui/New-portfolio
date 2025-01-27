@@ -194,11 +194,11 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/oussama-fajraoui%E2%9C%94-59436b22b/",
+    link: "https://www.linkedin.com/in/oussama-fajraoui-59436b22b/",
   },
   {
     id: 4,
     img: "/whats.svg",
-    link: "https://api.whatsapp.com/send?phone=26499227",
+    link: "https://api.whatsapp.com/send?phone=0751401922",
   },
 ];
