@@ -151,6 +151,20 @@ export const companies = [
 
 export const workExperience = [
   {
+    id: 5,
+    title: "Full-Stack Developer – Natixis",
+    desc: "Currently building and maintaining full-stack web applications for Natixis, covering both front-end interfaces and back-end services.",
+    className: "md:col-span-2",
+    thumbnail: "/natixis.svg",
+  },
+  {
+    id: 6,
+    title: "Front-End Developer – BRED Banque Populaire",
+    desc: "Developed user-facing features and interfaces for BRED's banking web applications in France.",
+    className: "md:col-span-2",
+    thumbnail: "/bred.svg",
+  },
+  {
     id: 1,
     title: "Full-Stack Developer",
     desc: "Development of a web-based platform using MERN stack technologie.",
